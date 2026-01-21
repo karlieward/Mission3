@@ -1,0 +1,14 @@
+/Users/karlieward/RiderProjects/Mission3/bin/Debug/net10.0/Mission3
+/Users/karlieward/RiderProjects/Mission3/bin/Debug/net10.0/Mission3.deps.json
+/Users/karlieward/RiderProjects/Mission3/bin/Debug/net10.0/Mission3.runtimeconfig.json
+/Users/karlieward/RiderProjects/Mission3/bin/Debug/net10.0/Mission3.dll
+/Users/karlieward/RiderProjects/Mission3/bin/Debug/net10.0/Mission3.pdb
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.AssemblyInfoInputs.cache
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.AssemblyInfo.cs
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.dll
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/refint/Mission3.dll
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.pdb
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/Mission3.genruntimeconfig.cache
+/Users/karlieward/RiderProjects/Mission3/obj/Debug/net10.0/ref/Mission3.dll
