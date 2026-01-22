@@ -2,32 +2,19 @@ namespace Mission3;
 
 public class FoodItem
 {
-    string name;
-    string category;
-    private int quantity;
-    private DateTime expirationDate;
+    public string name;
+    public string category;
+    public int quantity;
+    public DateTime expirationDate;
 
 
-    public AddFoodItem(string name, string category, int quantity, DateTime expirationDate)
+    public FoodItem(string name, string category, int quantity, DateTime expirationDate)
     {
-        
+        this.name = name;
+        this.category = category;
+        this.quantity = quantity;
+        this.expirationDate = expirationDate;
     }
-
-    public DeleteFoodItem()
-    {
-        
-    }
-
-    public PrintList()
-    {
-    }
-
-    public Exit()
-    {
-        Console.WriteLine("Goodbye");
-    }
-
-
-
+    
 }
 
